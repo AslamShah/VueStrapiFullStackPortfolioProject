@@ -4,7 +4,7 @@ This is a Vue Strapi full stack web application
 
 how to install?
 
-git clone https://github.com/AslamShah/VueStrapiFullStackPortfolioProject.git
+git clone https://github.com/AslamShah/VueStrapiFullStackPortfolioProject.git /n
 cd VueStrapiFullStackPortfolioProjec
 cd backend 
 type: yarn develop or npm run develop
