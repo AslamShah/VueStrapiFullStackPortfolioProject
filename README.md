@@ -2,16 +2,16 @@
 This is a Vue Strapi full stack web application
 
 
-how to install? \
+how to install?  
 
-git clone https://github.com/AslamShah/VueStrapiFullStackPortfolioProject.git \
-cd VueStrapiFullStackPortfolioProjec \
-cd backend \
-type: yarn develop or npm run develop \
-cd frontend \
-type: yarn serve or npm run serve \
+git clone https://github.com/AslamShah/VueStrapiFullStackPortfolioProject.git  
+cd VueStrapiFullStackPortfolioProjec  
+cd backend  
+type: yarn develop or npm run develop  
+cd frontend  
+type: yarn serve or npm run serve  
 
-Your app will be up and running \
+Your app will be up and running 
 
 
 ![vue-blog](https://user-images.githubusercontent.com/43674715/182261638-bc9b23a3-fe3f-48f1-ab48-16993c25f38a.png)
