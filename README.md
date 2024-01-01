@@ -1,21 +1,44 @@
 # VueStrapiFullStackPortfolioProject
-This is a Vue Strapi full stack web application
 
+This is a Vue Strapi full stack web application.
 
-how to install?  
+## How to Install
 
-git clone https://github.com/AslamShah/VueStrapiFullStackPortfolioProject.git  
-cd VueStrapiFullStackPortfolioProject  
-cd backend  
-type: yarn develop or npm run develop  
-cd frontend  
-type: yarn serve or npm run serve  
+1. Clone the repository:
 
-Your app will be up and running 
+    ```bash
+    git clone https://github.com/AslamShah/VueStrapiFullStackPortfolioProject.git
+    cd VueStrapiFullStackPortfolioProject
+    ```
 
+2. Navigate to the backend folder:
 
-![vue-blog](https://user-images.githubusercontent.com/43674715/182261638-bc9b23a3-fe3f-48f1-ab48-16993c25f38a.png)
+    ```bash
+    cd backend
+    ```
 
+3. Install dependencies and start the Strapi server:
 
+    ```bash
+    yarn develop  # or npm run develop
+    ```
 
-![strapi-vue](https://user-images.githubusercontent.com/43674715/182261660-19ed4e73-86db-4cba-b5a9-97e200ab1e45.png)
+4. Move to the frontend folder:
+
+    ```bash
+    cd ../frontend
+    ```
+
+5. Install dependencies and run the Vue app:
+
+    ```bash
+    yarn serve  # or npm run serve
+    ```
+
+Your app will be up and running.
+
+## Screenshots
+
+![Vue Blog](https://user-images.githubusercontent.com/43674715/182261638-bc9b23a3-fe3f-48f1-ab48-16993c25f38a.png)
+
+![Strapi Vue](https://user-images.githubusercontent.com/43674715/182261660-19ed4e73-86db-4cba-b5a9-97e200ab1e45.png)
